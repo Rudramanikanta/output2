@@ -1,0 +1,10 @@
+team1   vs      team5
+team2   vs      team4
+team2   vs      team5
+team3   vs      team1
+team3   vs      team5
+team4   vs      team2
+team4   vs      team5
+team1   vs      team3
+team1   vs      team5
+team2   vs      team4
