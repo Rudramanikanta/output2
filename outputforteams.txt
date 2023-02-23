@@ -1,10 +1,10 @@
-team1   vs      team5
-team2   vs      team4
-team2   vs      team5
-team3   vs      team1
-team3   vs      team5
-team4   vs      team2
-team4   vs      team5
-team1   vs      team3
-team1   vs      team5
-team2   vs      team4
+{team3=1, team1=0}
+{team4=0, team1=1}
+{team1=0, team2=1}
+{team1=1, team5=0}
+{team3=1, team2=0}
+{team4=0, team2=1}
+{team2=1, team5=0}
+{team3=0, team4=1}
+{team3=1, team5=0}
+{team4=0, team5=1}
